@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnshDogra/Leetcode/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/AnshDogra/Leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/AnshDogra/Leetcode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/AnshDogra/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0509-fibonacci-number](https://github.com/AnshDogra/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AnshDogra/Leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/AnshDogra/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnshDogra/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AnshDogra/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
