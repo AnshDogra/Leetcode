@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AnshDogra/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshDogra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AnshDogra/Leetcode/tree/master/0038-count-and-say) |
+| [0796-rotate-string](https://github.com/AnshDogra/Leetcode/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshDogra/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshDogra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/AnshDogra/Leetcode/tree/master/0796-rotate-string) |
 ## Greedy
 |  |
 | ------- |
