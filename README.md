@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnshDogra/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnshDogra/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshDogra/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AnshDogra/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AnshDogra/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AnshDogra/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
