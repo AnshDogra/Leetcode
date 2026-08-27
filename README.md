@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AnshDogra/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshDogra/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AnshDogra/Leetcode/tree/master/0038-count-and-say) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnshDogra/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0796-rotate-string](https://github.com/AnshDogra/Leetcode/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnshDogra/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AnshDogra/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnshDogra/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/AnshDogra/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/AnshDogra/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AnshDogra/Leetcode/tree/master/0877-stone-game) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnshDogra/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AnshDogra/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnshDogra/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnshDogra/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
